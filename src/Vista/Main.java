@@ -31,7 +31,6 @@ public class Main {
           
           int suma = a+b;
           
-          JOptionPane.showMessageDialog(null,"suma es: "+suma);
           
           break;
           
